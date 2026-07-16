@@ -1,0 +1,19 @@
+.idea/
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Keep the expected dataset tree, but do not version image data.
+data/**
+!data/
+!data/train/
+!data/train/classe_a/
+!data/train/classe_a/.gitkeep
+!data/train/classe_b/
+!data/train/classe_b/.gitkeep
+!data/val/
+!data/val/classe_a/
+!data/val/classe_a/.gitkeep
+!data/val/classe_b/
+!data/val/classe_b/.gitkeep
