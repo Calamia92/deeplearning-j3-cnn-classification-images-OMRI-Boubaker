@@ -6,6 +6,7 @@ __pycache__/
 logs/
 curves_*.png
 augmentation_grid.png
+comparison_tp1_tp2.png
 
 # Keep the expected dataset tree, but do not version image data.
 data/**
