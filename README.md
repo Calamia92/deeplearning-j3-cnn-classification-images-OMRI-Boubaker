@@ -2,6 +2,8 @@
 
 Projet de l'apres-midi : comparer trois iterations sur un probleme de classification binaire d'images.
 
+Dataset choisi : Cats vs Dogs Kaggle (`chetankv/dogs-cats-images`).
+
 ## Objectif
 
 - TP1 : CNN from scratch
